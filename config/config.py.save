@@ -1,0 +1,6 @@
+email = 'asystent-z2@deeptechlabs.pl'
+password = '12345678!'
+imap_server = 'imap.titan.email'
+smtp_server = ''  # Nie jest podane w dostarczonym kodzie
+attachment_dir = 'attachments'
+processed_attachment_dir = ''  # Nie jest podane w dostarc
